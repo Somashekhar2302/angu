@@ -1,0 +1,6 @@
+{
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.alwaysSignOff": true,
+    "git.autofetch": true,
+    "svn.path": "c:\\Program Files\\TortoiseSVN\\bin\\TortoiseMerge.exe"
+}
